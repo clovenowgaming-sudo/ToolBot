@@ -1,0 +1,14 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "clv.tool-bot",
+	"name": "CBot",
+	"version": "1.0.0",
+	"developer": "clv",
+	"description": "Macro bot untuk Geometry Dash: record & replay input, atur TPS, save/import/export macro (.gdr2), dan practice fix."
+}
